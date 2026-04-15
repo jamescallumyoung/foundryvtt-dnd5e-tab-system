@@ -1,7 +1,7 @@
 {
   "id": "jych-dnd5e-tab-system",
   "title": "Jych - Tab System (for dnd5e)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
