@@ -21,7 +21,7 @@ import {
   DYNAMIC_TAB_ACTIVE,
 } from "./tab-system.mjs";
 
-const MODULE_ID = "dnd5e-tab-system";
+const MODULE_ID = "jych-dnd5e-tab-system";
 
 Hooks.once("ready", () => {
   game.modules.get(MODULE_ID).api = {
